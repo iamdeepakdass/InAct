@@ -1,6 +1,9 @@
 # InAct
 
+
+
 Components offered:
+
      1)Courses: It provides a platform where users can view the courses that they 
      are enrolled in and shows the progress of the respective course.
      
